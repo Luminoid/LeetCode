@@ -1,6 +1,8 @@
 # LeetCode
-Solutions for LeetCode in C++
+Solutions for LeetCode in Java
 
-| \#  |      Title     |   Tags       |
+## Shell
+| \#  |      Title     |   Solution   |
 | :-- | :------------- | :----------- |
-|  1  | [Two Sum](https://leetcode.com/problems/two-sum/) |        |
+| 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [Shell](Shell/tenth-line.sh) |
+| 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [Shell](Shell/valid-phone-numbers.sh) |
