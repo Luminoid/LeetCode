@@ -1,6 +1,11 @@
 # LeetCode
 Solutions for LeetCode
 
+## Algorithms
+| \#  |      Title     |   Solution   |
+| :-- | :------------- | :----------- |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](Java/FizzBuzz.java) |
+
 ## Shell
 | \#  |      Title     |   Solution   |
 | :-- | :------------- | :----------- |
