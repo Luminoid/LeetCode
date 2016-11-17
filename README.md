@@ -4,6 +4,8 @@ Solutions for LeetCode
 ## Algorithms
 | \#  |      Title     |   Solution   |
 | :-- | :------------- | :----------- |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Java](Java/NimGame.java) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](Java/ReverseString.java) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](Java/FizzBuzz.java) |
 
 ## Shell
