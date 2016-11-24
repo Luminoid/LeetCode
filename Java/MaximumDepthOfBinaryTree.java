@@ -19,15 +19,3 @@ public class MaximumDepthOfBinaryTree {
         System.out.println(maxDepth(treeNode7));
     }
 }
-
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    public TreeNode(int val, TreeNode left, TreeNode right) {
-        this.val = val;
-        this.left = left;
-        this.right = right;
-    }
-}
