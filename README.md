@@ -11,6 +11,7 @@ Solutions for LeetCode
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](Java/FindTheDifference.java) | Bit Manipulation |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](Java/AssignCookies.java) | Greedy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Java](Java/AddDigits.java) | Math |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](Java/MoveZeroes.java) | Array |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Java](Java/NimGame.java) | |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](Java/ReverseString.java) | |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](Java/FizzBuzz.java) | |
