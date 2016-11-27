@@ -15,7 +15,8 @@ Solutions for LeetCode
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](Java/Java/DeleteNodeInALinkedList.java) | List |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](Java/ReverseString.java) | String |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](Java/RansomNote.java) | String |
-| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](Java/FirstUniqueCharacterInAString.java) | String |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](Java/FirstUniqueCharacterInAString.java) | Hash Table |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](Java/ValidAnagram.java) | Hash Table |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Java](Java/AddDigits.java) | Math |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Java](Java/MinimumMovesToEqualArrayElements.java) | Math |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](Java/ExcelSheetColumnNumber.java) | Math |
