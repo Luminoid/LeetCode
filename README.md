@@ -17,14 +17,18 @@ Solutions for LeetCode
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](Java/RansomNote.java) | String |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](Java/FirstUniqueCharacterInAString.java) | Hash Table |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](Java/ValidAnagram.java) | Hash Table |
+| 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](Java/LongestPalindrome.java) | Hash Table |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](Java/ContainsDuplicate.java) | Hash Table |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Java](Java/AddDigits.java) | Math |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Java](Java/MinimumMovesToEqualArrayElements.java) | Math |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](Java/ExcelSheetColumnNumber.java) | Math |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](Java/MoveZeroes.java) | Array |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](Java/IntersectionOfTwoArrays.java) | Array |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](Java/IntersectionOfTwoArraysII.java) | Array |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Java](Java/NimGame.java) | |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](Java/FizzBuzz.java) | |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Java](Java/IslandPerimeter.java) |  |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Java](Java/MajorityElement.java) |  |
 
 
 ## Shell

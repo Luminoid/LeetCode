@@ -1,5 +1,6 @@
 import java.util.HashMap;
 
+// Approach: 1. Sorting; 2. Hash Table
 public class ValidAnagram {
     public static boolean isAnagram(String s, String t) {
         HashMap<Character, Integer> sCount = new HashMap<>();
