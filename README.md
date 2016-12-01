@@ -14,6 +14,7 @@ Solutions for LeetCode
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Java](Java/BinaryWatch.java) | Bit Manipulation |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](Java/AssignCookies.java) | Greedy |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](Java/Java/DeleteNodeInALinkedList.java) | List |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](Java/ReverseLinkedList.java) | Linked List |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](Java/ReverseString.java) | String |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](Java/RansomNote.java) | String |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](Java/RomanToInteger.java) | String |
@@ -21,13 +22,14 @@ Solutions for LeetCode
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](Java/ValidAnagram.java) | Hash Table |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](Java/LongestPalindrome.java) | Hash Table |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](Java/ContainsDuplicate.java) | Hash Table |
+| 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [Java](Java/NumberOfBoomerangs.java) | Hash Table |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Java](Java/AddDigits.java) | Math |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Java](Java/MinimumMovesToEqualArrayElements.java) | Math |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](Java/ExcelSheetColumnNumber.java) | Math |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Java](Java/AddStrings.java) | Math |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](Java/MoveZeroes.java) | Array |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](Java/IntersectionOfTwoArrays.java) | Array |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](Java/IntersectionOfTwoArraysII.java) | Array |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](Java/ReverseLinkedList.java) | Linked List |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Java](Java/NimGame.java) | |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](Java/FizzBuzz.java) | |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Java](Java/IslandPerimeter.java) |  |
