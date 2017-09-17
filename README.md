@@ -13,7 +13,7 @@ Solutions for LeetCode
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](Java/FindTheDifference.java) | Bit Manipulation |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Java](Java/BinaryWatch.java) | Bit Manipulation |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](Java/AssignCookies.java) | Greedy |
-| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](Java/Java/DeleteNodeInALinkedList.java) | List |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](Java/Java/DeleteNodeInALinkedList.java) | Linked List |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](Java/ReverseLinkedList.java) | Linked List |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](Java/ReverseString.java) | String |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](Java/RansomNote.java) | String |
@@ -30,6 +30,7 @@ Solutions for LeetCode
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](Java/MoveZeroes.java) | Array |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](Java/IntersectionOfTwoArrays.java) | Array |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](Java/IntersectionOfTwoArraysII.java) | Array |
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](Java/HammingDistance.java) | |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Java](Java/NimGame.java) | |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](Java/FizzBuzz.java) | |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Java](Java/IslandPerimeter.java) |  |
