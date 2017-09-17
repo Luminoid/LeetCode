@@ -4,10 +4,13 @@ Solutions for LeetCode
 ## Algorithms
 | \#  |      Title     |   Solution   |  Tag  |
 | :-- | :------------- | :----------- | :---- |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](Java/MergeTwoBinaryTrees.java) | Tree |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](Java/MaximumDepthOfBinaryTree.java) | Tree |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](Java/InvertBinaryTree.java) | Tree |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](Java/SumOfLeftLeaves.java) | Tree |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](Java/SameTree.java) | Tree |
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](Java/HammingDistance.java) | Bit Manipulation |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Java](Java/NumberComplement.java) | Bit Manipulation |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](Java/SingleNumber.java) | Bit Manipulation |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](Java/SumofTwoIntegers.java) | Bit Manipulation |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](Java/FindTheDifference.java) | Bit Manipulation |
@@ -27,10 +30,11 @@ Solutions for LeetCode
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Java](Java/MinimumMovesToEqualArrayElements.java) | Math |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](Java/ExcelSheetColumnNumber.java) | Math |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Java](Java/AddStrings.java) | Math |
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](Java/ArrayPartitionI.java) | Array |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](Java/MoveZeroes.java) | Array |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](Java/IntersectionOfTwoArrays.java) | Array |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](Java/IntersectionOfTwoArraysII.java) | Array |
-| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](Java/HammingDistance.java) | |
+| 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/) | [Java](Java/JudgeRouteCircle.java) | |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Java](Java/NimGame.java) | |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](Java/FizzBuzz.java) | |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Java](Java/IslandPerimeter.java) |  |
