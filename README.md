@@ -5,6 +5,7 @@ Solutions for LeetCode
 | \#  |      Title     |   Solution   |  Tag  |
 | :-- | :------------- | :----------- | :---- |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](Java/MergeTwoBinaryTrees.java) | Tree |
+| 669 | [Trim a Binary Search Tree  ](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Java](Java/TrimABinarySearchTree.java) | Tree |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](Java/MaximumDepthOfBinaryTree.java) | Tree |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](Java/InvertBinaryTree.java) | Tree |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](Java/SumOfLeftLeaves.java) | Tree |
@@ -18,6 +19,7 @@ Solutions for LeetCode
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](Java/AssignCookies.java) | Greedy |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](Java/Java/DeleteNodeInALinkedList.java) | Linked List |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](Java/ReverseLinkedList.java) | Linked List |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](Java/ReverseWordsInAStringIII.java) | String |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](Java/ReverseString.java) | String |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](Java/RansomNote.java) | String |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](Java/RomanToInteger.java) | String |
