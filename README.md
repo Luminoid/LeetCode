@@ -43,6 +43,28 @@ Solutions for LeetCode
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Java](Java/IslandPerimeter.java) |  |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Java](Java/MajorityElement.java) |  |
 
+## Database
+| \#  |      Title     |   Solution   |
+| :-- | :------------- | :----------- |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](MySQL/big_countries.sql) |
+| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [MySQL](MySQL/swap_salary.sql) |
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](MySQL/not_boring_movies.sql) |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](MySQL/duplicate_emails.sql) |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/) | [MySQL](MySQL/combine_two_tables.sql) |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL](MySQL/employees_earning_more_than_their_managers.sql) |
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](MySQL/customers_who_never_order.sql) |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](MySQL/rising_temperature.sql) |
+| 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [MySQL](MySQL/classes_more_than_5_students.sql) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](MySQL/delete_duplicate_emails.sql) |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](MySQL/second_highest_salary.sql) |
+| 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [MySQL](MySQL/exchange_seats.sql) |
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [MySQL](MySQL/rank_scores.sql) |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [MySQL](MySQL/consecutive_numbers.sql) |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [MySQL](MySQL/department_highest_salary.sql) |
+| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [MySQL](MySQL/nth_highest_salary.sql) |
+| 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [MySQL](MySQL/human_traffic_of_stadium.sql) |
+| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [MySQL](MySQL/department_top_three_salaries.sql) |
+| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users) | [MySQL](MySQL/trips_and_users.sql) |
 
 ## Shell
 | \#  |      Title     |   Solution   |
