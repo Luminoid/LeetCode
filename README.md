@@ -23,6 +23,7 @@ Solutions for LeetCode
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](Java/ReverseString.java) | String |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](Java/RansomNote.java) | String |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](Java/RomanToInteger.java) | String |
+| 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Java](Java/EncodeandDecodeTinyURL.java) | Hash Table |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](Java/KeyboardRow.java) | Hash Table |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](Java/FirstUniqueCharacterInAString.java) | Hash Table |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](Java/ValidAnagram.java) | Hash Table |
