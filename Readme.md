@@ -13,5 +13,6 @@ Solutions for LeetCode
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Python](PythonCode/TrappingRainWater.py) | Hard | Array |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | [Python](PythonCode/LRUCache.py) | Medium | Hash Table |
 | 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Swift](SwiftCode/LongestSubstringWithoutRepeatingCharacters.swift) | Medium | String |
+| 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](PythonCode/RemoveDuplicateLetters.py) | Medium | String |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python](PythonCode/PalindromicSubstrings.py) | Medium | String |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [Python](PythonCode/LongestCommonSubsequence.py) | Medium | String |
