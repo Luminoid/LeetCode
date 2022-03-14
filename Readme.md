@@ -9,6 +9,7 @@ Solutions for LeetCode
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](PythonCode/MergeIntervals.py) | Medium | Array |
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [Python](PythonCode/PartitionEqualSubsetSum.py) | Medium | Array |
 | 532  | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [Python](PythonCode/kDiffPairsInAnArray.py) | Medium | Array |
+| 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Python](PythonCode/SubarraySumEqualsK.py) | Medium | Array |
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Python](PythonCode/DailyTemperatures.py) | Medium | Array |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Python](PythonCode/TrappingRainWater.py) | Hard | Array |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | [Python](PythonCode/LRUCache.py) | Medium | Hash Table |
