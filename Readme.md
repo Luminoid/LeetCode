@@ -15,6 +15,7 @@ Solutions for LeetCode
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Python](PythonCode/TrappingRainWater.py) | Hard | Array |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | [Python](PythonCode/LRUCache.py) | Medium | Hash Table |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](PythonCode/RomanToInteger.py) | Easy | String |
+| 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](PythonCode/ValidParentheses.py) | Easy | String |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [Python](PythonCode/MaximumRepeatingSubstring.py) | Easy | String |
 | 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Swift](SwiftCode/LongestSubstringWithoutRepeatingCharacters.swift) | Medium | String |
 | 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](PythonCode/RemoveDuplicateLetters.py) | Medium | String |
