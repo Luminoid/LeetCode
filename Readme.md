@@ -13,7 +13,6 @@ Solutions for LeetCode
 | 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Python](PythonCode/SubarraySumEqualsK.py) | Medium | Array |
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Python](PythonCode/DailyTemperatures.py) | Medium | Array |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Python](PythonCode/TrappingRainWater.py) | Hard | Array |
-| 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | [Python](PythonCode/LRUCache.py) | Medium | Hash Table |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](PythonCode/RomanToInteger.py) | Easy | String |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](PythonCode/ValidParentheses.py) | Easy | String |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [Python](PythonCode/MaximumRepeatingSubstring.py) | Easy | String |
@@ -21,3 +20,5 @@ Solutions for LeetCode
 | 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](PythonCode/RemoveDuplicateLetters.py) | Medium | String |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python](PythonCode/PalindromicSubstrings.py) | Medium | String |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [Python](PythonCode/LongestCommonSubsequence.py) | Medium | String |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](PythonCode/AddTwoNumbers.py) | Medium | Linked List |
+| 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | [Python](PythonCode/LRUCache.py) | Medium | Hash Table |
