@@ -17,6 +17,7 @@ Solutions for LeetCode
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](PythonCode/ValidParentheses.py) | Easy | String |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [Python](PythonCode/MaximumRepeatingSubstring.py) | Easy | String |
 | 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Swift](SwiftCode/LongestSubstringWithoutRepeatingCharacters.swift) | Medium | String |
+| 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python](PythonCode/LongestPalindromicSubstring.py) | Medium | String |
 | 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](PythonCode/RemoveDuplicateLetters.py) | Medium | String |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python](PythonCode/PalindromicSubstrings.py) | Medium | String |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [Python](PythonCode/LongestCommonSubsequence.py) | Medium | String |
