@@ -21,5 +21,6 @@ Solutions for LeetCode
 | 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](PythonCode/RemoveDuplicateLetters.py) | Medium | String |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python](PythonCode/PalindromicSubstrings.py) | Medium | String |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [Python](PythonCode/LongestCommonSubsequence.py) | Medium | String |
+| 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | [Python](PythonCode/MinimumRemovetoMakeValidParentheses.py) | Medium | String |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](PythonCode/AddTwoNumbers.py) | Medium | Linked List |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | [Python](PythonCode/LRUCache.py) | Medium | Hash Table |
