@@ -13,7 +13,7 @@ do
     esac
 done
 
-if [ -z ${index} ] || [ -z ${problem} ]; then
+if [ -z ${index} ] || [ -z "${problem}" ]; then
     echo "Error: index and problem name cannot be null"
     exit 1
 fi
