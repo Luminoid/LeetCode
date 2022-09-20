@@ -27,5 +27,5 @@ if __name__ == '__main__':
     d = ListNode(3, c)
     a.next = c
     e = ListNode(1)
-    print(solution.hasCycle(a))     # True
+    print(solution.hasCycle(d))     # True
     print(solution.hasCycle(e))     # False
