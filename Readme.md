@@ -8,6 +8,7 @@ Solutions for LeetCode
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](PythonCode/MaximumSubarray.py) | Easy | Array |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](PythonCode/BestTimeToBuyAndSellStock.py) | Easy | Array |
 | 15   | [3Sum](https://leetcode.com/problems/3sum) | [Python](PythonCode/3Sum.py) | Medium | Array |
+| 31   | [Next Permutation](https://leetcode.com/problems/next-permutation) | [Python](PythonCode/NextPermutation.py) | Medium | Array |
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](PythonCode/MergeIntervals.py) | Medium | Array |
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [Python](PythonCode/PartitionEqualSubsetSum.py) | Medium | Array |
 | 532  | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [Python](PythonCode/kDiffPairsInAnArray.py) | Medium | Array |
