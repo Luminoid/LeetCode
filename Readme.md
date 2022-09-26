@@ -38,3 +38,4 @@ Solutions for LeetCode
 |  \#  |  Title  |  Solution  |  Difficulty  |  Tag  |
 | :--- | :------ | :--------  | :----------- | :---- |
 | 595  | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](SQLiteCode/BigCountries.sql) | Easy | Database |
+| 627  | [Swap Salary](https://leetcode.com/problems/swap-salary) | [SQL](SQLiteCode/SwapSalary.sql) | Easy | Database |
