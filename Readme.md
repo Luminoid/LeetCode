@@ -37,6 +37,7 @@ Solutions for LeetCode
 ## Database
 |  \#  |  Title  |  Solution  |  Difficulty  |  Tag  |
 | :--- | :------ | :--------  | :----------- | :---- |
+| 182  | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [SQL](SQLiteCode/DuplicateEmails.sql) | Easy | Database |
 | 595  | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](SQLiteCode/BigCountries.sql) | Easy | Database |
 | 620  | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [SQL](SQLiteCode/NotBoringMovies.sql) | Easy | Database |
 | 627  | [Swap Salary](https://leetcode.com/problems/swap-salary) | [SQL](SQLiteCode/SwapSalary.sql) | Easy | Database |
