@@ -39,6 +39,7 @@ Solutions for LeetCode
 | :--- | :------ | :--------  | :----------- | :---- |
 | 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [SQL](SQLiteCode/combine_two_tables.sql) | Easy | Database |
 | 176  | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | [SQL](SQLiteCode/second_highest_salary.sql) | Medium | Database |
+| 177  | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | [SQL](SQLiteCode/nth_highest_salary.sql) | Medium | Database |
 | 182  | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [SQL](SQLiteCode/DuplicateEmails.sql) | Easy | Database |
 | 595  | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](SQLiteCode/BigCountries.sql) | Easy | Database |
 | 620  | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [SQL](SQLiteCode/NotBoringMovies.sql) | Easy | Database |
