@@ -44,4 +44,5 @@ Solutions for LeetCode
 | 627  | [Swap Salary](https://leetcode.com/problems/swap-salary) | [SQL](SQLiteCode/SwapSalary.sql) | Easy | Database |
 | 176  | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | [SQL](SQLiteCode/second_highest_salary.sql) | Medium | Database |
 | 177  | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | [SQL](SQLiteCode/nth_highest_salary.sql) | Medium | Database |
+| 178  | [Rank Scores](https://leetcode.com/problems/rank-scores) | [SQL](SQLiteCode/rank_scores.sql) | Medium | Database |
 | 180  | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | [SQL](SQLiteCode/consecutive_numbers.sql) | Medium | Database |
