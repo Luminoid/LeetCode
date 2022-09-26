@@ -23,13 +23,14 @@ if [ -z ${index} ] || [ -z "${title}" ]; then
     exit 1
 fi
 
-filename=${title//[[:blank:]]/}
 problem_url=$(echo ${title// /-} | tr '[:upper:]' '[:lower:]')
 
 add_problem(){
     if [ $language = $python_str ]; then
+        filename=${title//[[:blank:]]/}
         filepath=PythonCode/${filename}.py
     elif [ $language = $sqlite_str ]; then
+        filename=$(echo ${title// /_} | tr '[:upper:]' '[:lower:]')
         filepath=SQLiteCode/${filename}.sql
     else 
         echo "Only Python and SQLite is supported right now."
