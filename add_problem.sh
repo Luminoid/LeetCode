@@ -13,7 +13,7 @@ do
         l) language=${OPTARG};;
         h) echo "./add_problem.sh -i <problem index> -t <problem title> [-E | -M | -H] [-l <language>]"; exit 0;;
         E) difficulty="Easy";;
-        M) difficulty="Middle";;
+        M) difficulty="Medium";;
         H) difficulty="Hard";;
     esac
 done
