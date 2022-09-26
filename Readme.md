@@ -1,7 +1,7 @@
 # LeetCode
 Solutions for LeetCode
 
-## Problems
+## Algorithm Problems
 |  \#  |  Title  |  Solution  |  Difficulty  |  Tag  |
 | :--- | :------ | :--------  | :----------- | :---- |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum) | [Python](PythonCode/TwoSum.py) | Easy | Array |
@@ -34,5 +34,7 @@ Solutions for LeetCode
 | 811  | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | [Python](PythonCode/SubdomainVisitCount.py) | Medium | Hash Table |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](PythonCode/ReverseInteger.py) | Medium | Math |
 
-## Database
-
+## Database Problems
+|  \#  |  Title  |  Solution  |  Difficulty  |  Tag  |
+| :--- | :------ | :--------  | :----------- | :---- |
+| 595  | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](SQLiteCode/BigCountries.sql) | Easy | Database |
