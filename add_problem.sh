@@ -47,9 +47,9 @@ add_problem(){
 if __name__ == '__main__':
     solution = Solution()
 " >> $filepath
-        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Python](${filepath}) | ${difficulty} |  |" ${index} >> Readme.md
+        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Python](${filepath}) | ${difficulty} |  |\n" ${index} >> Readme.md
     elif [ $language = $sqlite_str ]; then
-        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [SQL](${filepath}) | ${difficulty} | Database |" ${index} >> Readme.md
+        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [SQL](${filepath}) | ${difficulty} | Database |\n" ${index} >> Readme.md
     fi
     echo "File created: ${filepath}"
 }
