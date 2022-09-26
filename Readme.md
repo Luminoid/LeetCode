@@ -33,3 +33,6 @@ Solutions for LeetCode
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | [Python](PythonCode/LRUCache.py) | Medium | Hash Table |
 | 811  | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | [Python](PythonCode/SubdomainVisitCount.py) | Medium | Hash Table |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](PythonCode/ReverseInteger.py) | Medium | Math |
+
+## Database
+

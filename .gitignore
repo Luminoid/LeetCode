@@ -2,5 +2,8 @@
 .idea
 venv/
 
+# DataGrip
+*.sqlite
+
 # Xcode
 *.xcodeproj
