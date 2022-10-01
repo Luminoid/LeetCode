@@ -48,3 +48,4 @@ Solutions for LeetCode
 | 177  | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | [SQL](SQLiteCode/nth_highest_salary.sql) | Medium | Database |
 | 178  | [Rank Scores](https://leetcode.com/problems/rank-scores) | [SQL](SQLiteCode/rank_scores.sql) | Medium | Database |
 | 180  | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | [SQL](SQLiteCode/consecutive_numbers.sql) | Medium | Database |
+| 184  | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [SQL](SQLiteCode/department_highest_salary.sql) | Medium | Database |
