@@ -40,6 +40,7 @@ Solutions for LeetCode
 | 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [SQL](SQLiteCode/combine_two_tables.sql) | Easy | Database |
 | 181  | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [SQL](SQLiteCode/employees_earning_more_than_their_managers.sql) | Easy | Database |
 | 182  | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [SQL](SQLiteCode/DuplicateEmails.sql) | Easy | Database |
+| 183  | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [SQL](SQLiteCode/customers_who_never_order.sql) | Easy | Database |
 | 595  | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](SQLiteCode/BigCountries.sql) | Easy | Database |
 | 620  | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [SQL](SQLiteCode/NotBoringMovies.sql) | Easy | Database |
 | 627  | [Swap Salary](https://leetcode.com/problems/swap-salary) | [SQL](SQLiteCode/SwapSalary.sql) | Easy | Database |
