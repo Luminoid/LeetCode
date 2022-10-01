@@ -2,6 +2,7 @@
 
 python_str="Python"
 sqlite_str="SQLite"
+bash_str="Bash"
 language=$python_str
 difficulty=""
 
@@ -32,6 +33,9 @@ add_problem(){
     elif [ $language = $sqlite_str ]; then
         filename=$(echo ${title// /_} | tr '[:upper:]' '[:lower:]')
         filepath=SQLiteCode/${filename}.sql
+    elif [ $language = $bash_str ]; then
+        filename=$(echo ${title// /_} | tr '[:upper:]' '[:lower:]')
+        filepath=BashCode/${filename}.sh
     else 
         echo "Only Python and SQLite is supported right now."
         exit 2
@@ -50,6 +54,8 @@ if __name__ == '__main__':
         printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Python](${filepath}) | ${difficulty} |  |\n" ${index} >> Readme.md
     elif [ $language = $sqlite_str ]; then
         printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [SQL](${filepath}) | ${difficulty} | Database |\n" ${index} >> Readme.md
+    elif [ $language = $bash_str ]; then
+        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Bash](${filepath}) | ${difficulty} | Shell |\n" ${index} >> Readme.md
     fi
     echo "File created: ${filepath}"
 }
