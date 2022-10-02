@@ -57,3 +57,4 @@ Solutions for LeetCode
 |  \#  |  Title  |  Solution  |  Difficulty  |  Tag  |
 | :--- | :------ | :--------  | :----------- | :---- |
 | 193  | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Bash](BashCode/valid_phone_numbers.sh) | Easy | Shell |
+| 195  | [Tenth Line](https://leetcode.com/problems/tenth-line) | [Bash](BashCode/tenth_line.sh) | Easy | Shell |
