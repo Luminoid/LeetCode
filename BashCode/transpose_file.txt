@@ -1,0 +1,4 @@
+name age sex 
+alice 21 F
+ryan 30 M
+tom 26 M
