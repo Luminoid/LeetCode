@@ -58,3 +58,4 @@ Solutions for LeetCode
 | :--- | :------ | :--------  | :----------- | :---- |
 | 193  | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Bash](BashCode/valid_phone_numbers.sh) | Easy | Shell |
 | 195  | [Tenth Line](https://leetcode.com/problems/tenth-line) | [Bash](BashCode/tenth_line.sh) | Easy | Shell |
+| 192  | [Word Frequency](https://leetcode.com/problems/word-frequency) | [Bash](BashCode/word_frequency.sh) | Medium | Shell |
