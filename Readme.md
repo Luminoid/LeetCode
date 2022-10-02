@@ -52,3 +52,8 @@ Solutions for LeetCode
 | 180  | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | [SQL](SQLiteCode/consecutive_numbers.sql) | Medium | Database |
 | 184  | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [SQL](SQLiteCode/department_highest_salary.sql) | Medium | Database |
 | 185  | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [SQL](SQLiteCode/department_top_three_salaries.sql) | Hard | Database |
+
+## Shell
+|  \#  |  Title  |  Solution  |  Difficulty  |  Tag  |
+| :--- | :------ | :--------  | :----------- | :---- |
+| 193  | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Bash](BashCode/valid_phone_numbers.sh) | Easy | Shell |
