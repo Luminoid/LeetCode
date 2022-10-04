@@ -1,3 +1,5 @@
+-- SQLite
+
 Create table If Not Exists Scores (id int, score DECIMAL(3,2));
 insert into Scores (id, score) values ('1', '3.5');
 insert into Scores (id, score) values ('2', '3.65');

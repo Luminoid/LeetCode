@@ -1,3 +1,5 @@
+# MySQL
+
 Create table If Not Exists Trips (id int, client_id int, driver_id int, city_id int, status ENUM('completed', 'cancelled_by_driver', 'cancelled_by_client'), request_at varchar(50));
 Create table If Not Exists Users (users_id int, banned varchar(50), role ENUM('client', 'driver', 'partner'));
 Truncate table Trips;
@@ -21,7 +23,6 @@ insert into Users (users_id, banned, role) values ('11', 'No', 'driver');
 insert into Users (users_id, banned, role) values ('12', 'No', 'driver');
 insert into Users (users_id, banned, role) values ('13', 'No', 'driver');
 
-# MySQL
 select request_at as Day, round(sum(if(status <> 'completed', 1, 0)) / count(*), 2) as 'Cancellation Rate'
 from Trips
     join Users Client on Client.banned = 'NO' and Client.users_id = client_id and Client.role = 'client'

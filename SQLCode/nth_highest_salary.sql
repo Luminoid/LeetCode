@@ -1,9 +1,10 @@
+# MySQL
+
 Create table If Not Exists Employee (Id int, Salary int);
 insert into Employee (id, salary) values ('1', '100');
 insert into Employee (id, salary) values ('2', '200');
 insert into Employee (id, salary) values ('3', '300');
 
-# MySQL
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
     set N = N - 1;

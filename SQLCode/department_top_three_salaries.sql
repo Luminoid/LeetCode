@@ -1,3 +1,5 @@
+-- SQLite
+
 Create table If Not Exists Employee (id int, name varchar(255), salary int, departmentId int);
 Create table If Not Exists Department (id int, name varchar(255));
 insert into Employee (id, name, salary, departmentId) values ('1', 'Joe', '85000', '1');

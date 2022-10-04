@@ -1,3 +1,5 @@
+-- SQLite
+
 Create table If Not Exists cinema (id int, movie varchar(255), description varchar(255), rating float(2, 1));
 insert into cinema (id, movie, description, rating) values ('1', 'War', 'great 3D', '8.9');
 insert into cinema (id, movie, description, rating) values ('2', 'Science', 'fiction', '8.5');

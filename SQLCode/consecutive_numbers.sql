@@ -1,3 +1,5 @@
+-- SQLite
+
 Create table If Not Exists Logs (id int, num int);
 insert into Logs (id, num) values ('1', '1');
 insert into Logs (id, num) values ('2', '1');

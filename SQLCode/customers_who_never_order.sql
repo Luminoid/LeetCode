@@ -1,3 +1,5 @@
+-- SQLite
+
 Create table If Not Exists Customers (id int, name varchar(255));
 Create table If Not Exists Orders (id int, customerId int);
 insert into Customers (id, name) values ('1', 'Joe');

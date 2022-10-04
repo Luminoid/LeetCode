@@ -1,3 +1,5 @@
+-- SQLite
+
 Create table If Not Exists World (name varchar(255), continent varchar(255), area int, population int, gdp int);
 insert into World (name, continent, area, population, gdp) values ('Afghanistan', 'Asia', '652230', '25500100', '20343000000');
 insert into World (name, continent, area, population, gdp) values ('Albania', 'Europe', '28748', '2831741', '12960000000');
