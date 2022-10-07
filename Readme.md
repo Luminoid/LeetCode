@@ -44,6 +44,7 @@ Solutions for LeetCode
 | 196  | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [SQL](SQLiteCode/delete_duplicate_emails.sql) | Easy | Database |
 | 197  | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | [SQL](SQLiteCode/rising_temperature.sql) | Easy | Database |
 | 595  | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](SQLiteCode/BigCountries.sql) | Easy | Database |
+| 596  | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | [SQL](SQLCode/classes_more_than_5_students.sql) | Easy | Database |
 | 620  | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [SQL](SQLiteCode/NotBoringMovies.sql) | Easy | Database |
 | 627  | [Swap Salary](https://leetcode.com/problems/swap-salary) | [SQL](SQLiteCode/SwapSalary.sql) | Easy | Database |
 | 176  | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | [SQL](SQLiteCode/second_highest_salary.sql) | Medium | Database |
