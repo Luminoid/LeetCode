@@ -35,6 +35,7 @@ Solutions for LeetCode
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree) | [Python](PythonCode/SameTree.py) | Easy | Tree |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](PythonCode/MaximumDepthofBinaryTree.py) | Easy | Tree |
 | 136  | [Single Number](https://leetcode.com/problems/single-number) | [Python](PythonCode/SingleNumber.py) | Easy | Bit Manipulation |
+| 137  | [Single Number II](https://leetcode.com/problems/single-number-ii) | [Python](PythonCode/SingleNumberII.py) | Medium | Bit Manipulation |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](PythonCode/ReverseInteger.py) | Medium | Math |
 
 ## Database
