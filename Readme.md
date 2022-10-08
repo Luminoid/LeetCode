@@ -7,6 +7,7 @@ Solutions for LeetCode
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum) | [Python](PythonCode/TwoSum.py) | Easy | Array |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](PythonCode/MaximumSubarray.py) | Easy | Array |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](PythonCode/BestTimeToBuyAndSellStock.py) | Easy | Array |
+| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Java](JavaCode/src/ContainsDuplicate.java) | Easy | Array |
 | 15   | [3Sum](https://leetcode.com/problems/3sum) | [Python](PythonCode/3Sum.py) | Medium | Array |
 | 31   | [Next Permutation](https://leetcode.com/problems/next-permutation) | [Python](PythonCode/NextPermutation.py) | Medium | Array |
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](PythonCode/MergeIntervals.py) | Medium | Array |
