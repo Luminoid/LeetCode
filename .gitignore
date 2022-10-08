@@ -1,6 +1,12 @@
-# PyCharm
+# JetBrains
 .idea
+
+# PyCharm
 venv/
+
+# IntelliJ
+*.iml
+JavaCode/out/
 
 # DataGrip
 *.sqlite
