@@ -64,8 +64,7 @@ if __name__ == '__main__':
     public static void main(String[] args) {
 
     }
-}
-" >> $filepath
+}" >> $filepath
         printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Java](${filepath}) | ${difficulty} |  |\n" ${index} >> Readme.md
     elif [ $language = $sql_str ]; then
         printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [SQL](${filepath}) | ${difficulty} | Database |\n" ${index} >> Readme.md
