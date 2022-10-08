@@ -33,6 +33,7 @@ Solutions for LeetCode
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](JavaCode/src/ReverseLinkedList.java) | Easy | Linked List |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](PythonCode/AddTwoNumbers.py) | Medium | Linked List |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Python](PythonCode/LinkedListCycleII.py) | Medium | Linked List |
+| 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Java](JavaCode/src/DeleteNodeinaLinkedList.java) | Medium | Linked List |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | [Python](PythonCode/LRUCache.py) | Medium | Hash Table |
 | 811  | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | [Python](PythonCode/SubdomainVisitCount.py) | Medium | Hash Table |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree) | [Python](PythonCode/SameTree.py) | Easy | Tree |
