@@ -73,5 +73,7 @@ Solutions for LeetCode
 | 194  | [Transpose File](https://leetcode.com/problems/transpose-file) | [Bash](BashCode/transpose_file.sh) | Medium | Shell |
 
 ## Concurrency
+|  \#  |  Title  |  Solution  |  Difficulty  |  Tag  |
+| :--- | :------ | :--------  | :----------- | :---- |
 | 1114 | [Print in Order](https://leetcode.com/problems/print-in-order) | [Python](PythonCode/PrintinOrder.py) | Easy | Concurrency |
 | 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded) | [Python](PythonCode/FizzBuzzMultithreaded.py) | Medium | Concurrency |
