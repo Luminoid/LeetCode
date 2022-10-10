@@ -8,7 +8,7 @@
 import Foundation
 
 //@main
-class Solution {
+private class Solution {
     // Sliding window
     // Time complexity: O(n)
     // Space complexity: O(min(m,n))

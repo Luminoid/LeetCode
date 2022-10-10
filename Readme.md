@@ -9,6 +9,7 @@ Solutions for LeetCode
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](PythonCode/BestTimeToBuyAndSellStock.py) | Easy | Array |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Java](JavaCode/src/ContainsDuplicate.java) | Easy | Array |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](JavaCode/src/MoveZeroes.java) | Easy | Array |
+| 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Swift](SwiftCode/IntersectionofTwoArrays.swift) | Easy | Array |
 | 15   | [3Sum](https://leetcode.com/problems/3sum) | [Python](PythonCode/3Sum.py) | Medium | Array |
 | 31   | [Next Permutation](https://leetcode.com/problems/next-permutation) | [Python](PythonCode/NextPermutation.py) | Medium | Array |
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](PythonCode/MergeIntervals.py) | Medium | Array |
