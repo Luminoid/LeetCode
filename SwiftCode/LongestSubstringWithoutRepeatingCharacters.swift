@@ -7,7 +7,7 @@
 
 import Foundation
 
-@main
+//@main
 class Solution {
     // Sliding window
     // Time complexity: O(n)
