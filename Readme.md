@@ -43,6 +43,7 @@ Solutions for LeetCode
 | 136  | [Single Number](https://leetcode.com/problems/single-number) | [Python](PythonCode/SingleNumber.py) | Easy | Bit Manipulation |
 | 137  | [Single Number II](https://leetcode.com/problems/single-number-ii) | [Python](PythonCode/SingleNumberII.py) | Medium | Bit Manipulation |
 | 171  | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [Python](PythonCode/ExcelSheetColumnNumber.py) | Easy | Math |
+| 258  | [Add Digits](https://leetcode.com/problems/add-digits) | [Java](JavaCode/src/AddDigits.java) | Easy | Math |
 | 412  | [FizzBuzz](https://leetcode.com/problems/fizz-buzz) | [Java](JavaCode/src/FizzBuzz.java) | Easy | Math |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](PythonCode/ReverseInteger.py) | Medium | Math |
 
