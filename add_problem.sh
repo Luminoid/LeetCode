@@ -78,6 +78,16 @@ if __name__ == '__main__':
 }" >> $filepath
         printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Java](${filepath}) | ${difficulty} |  |\n" ${index} >> Readme.md
     elif [ $language = $swift_str ]; then
+        echo "Swift Templete
+//@main
+private class Solution {
+    // Time complexity: O()
+    // Space complexity: O()
+    
+    static func main() {
+        let solution = Solution()
+    }
+}"
         printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Swift](${filepath}) | ${difficulty} |  |\n" ${index} >> Readme.md
     elif [ $language = $sql_str ]; then
         printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [SQL](${filepath}) | ${difficulty} | Database |\n" ${index} >> Readme.md
