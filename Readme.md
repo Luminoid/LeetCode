@@ -27,6 +27,7 @@ Solutions for LeetCode
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](JavaCode/src/ReverseString.java) | Easy | String |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Java](JavaCode/src/RansomNote.java) | Easy | String |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Swift](SwiftCode/FirstUniqueCharacterinaString.swift) | Easy | String |
+| 389  | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [Swift](SwiftCode/FindtheDifference.swift) | Easy | String |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [Python](PythonCode/MaximumRepeatingSubstring.py) | Easy | String |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Swift](SwiftCode/LongestSubstringWithoutRepeatingCharacters.swift) | Medium | String |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python](PythonCode/LongestPalindromicSubstring.py) | Medium | String |
