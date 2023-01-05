@@ -25,6 +25,7 @@ Solutions for LeetCode
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Python](PythonCode/LongestCommonPrefix.py) | Easy | String |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](PythonCode/ValidParentheses.py) | Easy | String |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](JavaCode/src/ReverseString.java) | Easy | String |
+| 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Java](JavaCode/src/RansomNote.java) | Easy | String |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [Python](PythonCode/MaximumRepeatingSubstring.py) | Easy | String |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Swift](SwiftCode/LongestSubstringWithoutRepeatingCharacters.swift) | Medium | String |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python](PythonCode/LongestPalindromicSubstring.py) | Medium | String |
