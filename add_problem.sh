@@ -66,7 +66,7 @@ add_problem(){
 if __name__ == '__main__':
     solution = Solution()
 " >> $filepath
-        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Python](${filepath}) | ${difficulty} |  |\n" ${index} >> Readme.md
+        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Python](${filepath}) | ${difficulty} |  | |\n" ${index} >> Readme.md
     elif [ $language = $java_str ]; then
         echo "class $filename {
     // Time complexity: O()
@@ -76,7 +76,7 @@ if __name__ == '__main__':
 
     }
 }" >> $filepath
-        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Java](${filepath}) | ${difficulty} |  |\n" ${index} >> Readme.md
+        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Java](${filepath}) | ${difficulty} |  | |\n" ${index} >> Readme.md
     elif [ $language = $swift_str ]; then
         echo "Swift Templete
 //@main
@@ -88,11 +88,11 @@ private class Solution {
         let solution = Solution()
     }
 }"
-        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Swift](${filepath}) | ${difficulty} |  |\n" ${index} >> Readme.md
+        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Swift](${filepath}) | ${difficulty} |  | |\n" ${index} >> Readme.md
     elif [ $language = $sql_str ]; then
-        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [SQL](${filepath}) | ${difficulty} | Database |\n" ${index} >> Readme.md
+        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [SQL](${filepath}) | ${difficulty} |\n" ${index} >> Readme.md
     elif [ $language = $bash_str ]; then
-        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Bash](${filepath}) | ${difficulty} | Shell |\n" ${index} >> Readme.md
+        printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Bash](${filepath}) | ${difficulty} |\n" ${index} >> Readme.md
     fi
     echo "Readme updated"
 }
