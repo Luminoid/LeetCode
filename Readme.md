@@ -55,6 +55,7 @@ Solutions for LeetCode
 | 136  | [Single Number](https://leetcode.com/problems/single-number) | [Python](PythonCode/SingleNumber.py) | Easy | Bit Manipulation | |
 | 137  | [Single Number II](https://leetcode.com/problems/single-number-ii) | [Python](PythonCode/SingleNumberII.py) | Medium | Bit Manipulation | |
 | 401  | [Binary Watch](https://leetcode.com/problems/binary-watch) | [Swift](SwiftCode/BinaryWatch.swift) | Easy | Bit Manipulation | |
+| 461  | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [Swift](SwiftCode/HammingDistance.swift) | Easy | Bit Manipulation | |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](PythonCode/ReverseInteger.py) | Medium | Math | |
 | 171  | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [Python](PythonCode/ExcelSheetColumnNumber.py) | Easy | Math | |
 | 258  | [Add Digits](https://leetcode.com/problems/add-digits) | [Java](JavaCode/src/AddDigits.java) | Easy | Math | |
