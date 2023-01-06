@@ -58,6 +58,7 @@ Solutions for LeetCode
 | 292  | [Nim Game](https://leetcode.com/problems/nim-game) | [Java](JavaCode/src/NimGame.java) | Easy | Math | |
 | 371  | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | [Java](JavaCode/src/SumOfTwoIntegers.java) | Medium | Math | |
 | 412  | [FizzBuzz](https://leetcode.com/problems/fizz-buzz) | [Java](JavaCode/src/FizzBuzz.java) | Easy | Math | |
+| 415  | [Add Strings](https://leetcode.com/problems/add-strings) | [Swift](SwiftCode/AddStrings.swift) | Easy | Math | |
 
 ## Database
 |  \#  |  Title  |  Solution  |  Difficulty  |
