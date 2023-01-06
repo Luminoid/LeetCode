@@ -33,6 +33,7 @@ Solutions for LeetCode
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Java](JavaCode/src/RansomNote.java) | Easy | String | |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Swift](SwiftCode/FirstUniqueCharacterinaString.swift) | Easy | String | |
 | 389  | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [Swift](SwiftCode/FindtheDifference.swift) | Easy | String | |
+| 409  | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | [Swift](SwiftCode/LongestPalindrome.swift) | Easy | String | |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python](PythonCode/PalindromicSubstrings.py) | Medium | String | |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [Python](PythonCode/LongestCommonSubsequence.py) | Medium | String | Dynamic Programming |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | [Python](PythonCode/MinimumRemovetoMakeValidParentheses.py) | Medium | String | Stack |
