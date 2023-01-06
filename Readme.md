@@ -17,6 +17,7 @@ Solutions for LeetCode
 | 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Swift](SwiftCode/IntersectionofTwoArrays.swift) | Easy | Array | |
 | 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [Swift](SwiftCode/IntersectionofTwoArraysII.swift) | Easy | Array | |
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [Python](PythonCode/PartitionEqualSubsetSum.py) | Medium | Array | Dynamic Programming |
+| 447  | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | [Swift](SwiftCode/NumberOfBoomerangs.swift) | Medium | Array | |
 | 532  | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [Python](PythonCode/kDiffPairsInAnArray.py) | Medium | Array | |
 | 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Python](PythonCode/SubarraySumEqualsK.py) | Medium | Array | |
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Python](PythonCode/DailyTemperatures.py) | Medium | Array | Stack |
