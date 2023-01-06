@@ -2,8 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 class FizzBuzz {
-    // Time complexity: O()
-    // Space complexity: O()
+    // Time complexity: O(n)
+    // Space complexity: O(n)
 
     public List<String> fizzBuzz(int n) {
         List<String> l = new ArrayList<>(n);

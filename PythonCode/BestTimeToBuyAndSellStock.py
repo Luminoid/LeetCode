@@ -2,6 +2,7 @@ from typing import List
 
 
 class Solution:
+    # Dynamic Programming
     # Time complexity: O(n)
     # Space complexity: O(1)
     def maxProfit(self, prices: List[int]) -> int:

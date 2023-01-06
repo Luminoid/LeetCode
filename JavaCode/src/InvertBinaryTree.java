@@ -1,6 +1,6 @@
 class InvertBinaryTree {
-    // Time complexity: O()
-    // Space complexity: O()
+    // Time complexity: O(n)
+    // Space complexity: O(n)
     public TreeNode invertTree(TreeNode root) {
         if (root != null) {
             TreeNode tmp = root.left;

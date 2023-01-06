@@ -10,8 +10,11 @@ import Foundation
 //@main
 private class Solution {
     // Time complexity: O(m+n)
-    // Space complexity: O(max(m+n))
+    // Space complexity: O(min(m+n))
     func intersect(_ nums1: [Int], _ nums2: [Int]) -> [Int] {
+        if nums1.count > nums2.count {
+            return intersect(nums2, nums1)
+        }
         var count: [Int: Int] = [:]
         var intersect: [Int] = []
         for num in nums1 {

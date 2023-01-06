@@ -2,6 +2,7 @@ from typing import List
 
 
 class Solution:
+    # Sorting
     # Time complexity: O(n log(n))
     # Space complexity: O(n)
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
