@@ -66,6 +66,7 @@ Solutions for LeetCode
 | 371  | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | [Java](JavaCode/src/SumOfTwoIntegers.java) | Medium | Math | |
 | 412  | [FizzBuzz](https://leetcode.com/problems/fizz-buzz) | [Java](JavaCode/src/FizzBuzz.java) | Easy | Math | |
 | 415  | [Add Strings](https://leetcode.com/problems/add-strings) | [Swift](SwiftCode/AddStrings.swift) | Easy | Math | |
+| 535  | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | [Swift](SwiftCode/EncodeAndDecodeTinyURL.swift) | Medium | System Design | |
 
 ## Database
 |  \#  |  Title  |  Solution  |  Difficulty  |
