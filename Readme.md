@@ -24,6 +24,7 @@ Solutions for LeetCode
 | 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [Swift](SwiftCode/KeyboardRow.swift) | Easy | Array | |
 | 532  | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [Python](PythonCode/kDiffPairsInAnArray.py) | Medium | Array | |
 | 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Python](PythonCode/SubarraySumEqualsK.py) | Medium | Array | |
+| 561  | [Array Partition](https://leetcode.com/problems/array-partition) | [Swift](SwiftCode/ArrayPartition.swift) | Easy | Array | Greedy |
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Python](PythonCode/DailyTemperatures.py) | Medium | Array | Stack |
 | 811  | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | [Python](PythonCode/SubdomainVisitCount.py) | Medium | Array | |
 | 923  | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity) | [Python](PythonCode/3SumWithMultiplicity.py) | Medium | Array | |
