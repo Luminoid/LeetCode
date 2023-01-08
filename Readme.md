@@ -56,6 +56,7 @@ Solutions for LeetCode
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](PythonCode/MaximumDepthofBinaryTree.py) | Easy | Tree | |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Java](JavaCode/src/InvertBinaryTree.java) | Easy | Tree | |
 | 404  | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | [Swift](SwiftCode/SumOfLeftLeaves.swift) | Easy | Tree | |
+| 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Swift](SwiftCode/MergeTwoBinaryTrees.swift) | Easy | Tree | |
 | 136  | [Single Number](https://leetcode.com/problems/single-number) | [Python](PythonCode/SingleNumber.py) | Easy | Bit Manipulation | |
 | 137  | [Single Number II](https://leetcode.com/problems/single-number-ii) | [Python](PythonCode/SingleNumberII.py) | Medium | Bit Manipulation | |
 | 401  | [Binary Watch](https://leetcode.com/problems/binary-watch) | [Swift](SwiftCode/BinaryWatch.swift) | Easy | Bit Manipulation | |
