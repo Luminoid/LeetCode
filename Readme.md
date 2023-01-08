@@ -42,6 +42,7 @@ Solutions for LeetCode
 | 409  | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | [Swift](SwiftCode/LongestPalindrome.swift) | Easy | String | |
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Swift](SwiftCode/ReverseWordsinaStringIII.swift) | Easy | String | |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python](PythonCode/PalindromicSubstrings.py) | Medium | String | |
+| 657  | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | [Swift](SwiftCode/RobotReturntoOrigin.swift) | Easy | String | |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [Python](PythonCode/LongestCommonSubsequence.py) | Medium | String | Dynamic Programming |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | [Python](PythonCode/MinimumRemovetoMakeValidParentheses.py) | Medium | String | Stack |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [Python](PythonCode/MaximumRepeatingSubstring.py) | Easy | String | KMP |
