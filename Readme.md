@@ -5,6 +5,7 @@ Solutions for LeetCode
 |  \#  |  Title  |  Solution  |  Difficulty  |  Topic  |  Tag  |
 | :--- | :------ | :--------  | :----------  | :-----  | :--- |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum) | [Python](PythonCode/TwoSum.py) | Easy | Array | |
+| 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Swift](SwiftCode/MedianOfTwoSortedArrays.swift) | Hard | Array | Binary Search |
 | 15   | [3Sum](https://leetcode.com/problems/3sum) | [Python](PythonCode/3Sum.py) | Medium | Array | |
 | 31   | [Next Permutation](https://leetcode.com/problems/next-permutation) | [Python](PythonCode/NextPermutation.py) | Medium | Array | |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Python](PythonCode/TrappingRainWater.py) | Hard | Array | |
