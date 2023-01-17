@@ -85,7 +85,10 @@ private class Solution {
     // Space complexity: O()
     
     static func main() {
-        let solution = Solution()
+        [
+        ].forEach {
+            let solution = Solution()
+        }
     }
 }"
         printf "| %-4s | [${title}](https://leetcode.com/problems/${problem_url}) | [Swift](${filepath}) | ${difficulty} |  | |\n" ${index} >> Readme.md
