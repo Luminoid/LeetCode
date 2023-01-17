@@ -15,6 +15,7 @@ Solutions for LeetCode
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element) | [Python](PythonCode/MajorityElement.py) | Easy | Array | |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Java](JavaCode/src/ContainsDuplicate.java) | Easy | Array | |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](JavaCode/src/MoveZeroes.java) | Easy | Array | |
+| 322  | [Coin Change](https://leetcode.com/problems/coin-change) | [Swift](SwiftCode/CoinChange.swift) | Medium | Array | Dynamic Programming |
 | 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Swift](SwiftCode/IntersectionofTwoArrays.swift) | Easy | Array | |
 | 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [Swift](SwiftCode/IntersectionofTwoArraysII.swift) | Easy | Array | |
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [Python](PythonCode/PartitionEqualSubsetSum.py) | Medium | Array | Dynamic Programming |
