@@ -29,6 +29,7 @@ Solutions for LeetCode
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Python](PythonCode/DailyTemperatures.py) | Medium | Array | Stack |
 | 811  | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | [Python](PythonCode/SubdomainVisitCount.py) | Medium | Array | |
 | 923  | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity) | [Python](PythonCode/3SumWithMultiplicity.py) | Medium | Array | |
+| 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks) | [Swift](SwiftCode/MinimumCostToConnectSticks.swift) | Medium | Array | Heap, Priority Queue |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Swift](SwiftCode/LongestSubstringWithoutRepeatingCharacters.swift) | Medium | String | Sliding Window |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python](PythonCode/LongestPalindromicSubstring.py) | Medium | String | |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](PythonCode/RomanToInteger.py) | Easy | String | |
