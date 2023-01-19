@@ -13,6 +13,7 @@ Solutions for LeetCode
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](PythonCode/MaximumSubarray.py) | Medium | Array | Dynamic Programming |
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](PythonCode/MergeIntervals.py) | Medium | Array | Sorting |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](PythonCode/BestTimeToBuyAndSellStock.py) | Easy | Array | Dynamic Programming |
+| 134  | [Gas Station](https://leetcode.com/problems/gas-station) | [Swift](SwiftCode/GasStation.swift) | Medium | Array | Greedy |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element) | [Python](PythonCode/MajorityElement.py) | Easy | Array | |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Java](JavaCode/src/ContainsDuplicate.java) | Easy | Array | |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](JavaCode/src/MoveZeroes.java) | Easy | Array | |
