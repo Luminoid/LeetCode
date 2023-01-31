@@ -20,6 +20,10 @@ class Solution:
                 q = prefix_func[q - 1]
         return result
 
+    # Example:
+    # i    1 2 3 4 5 6 7
+    # w[i] a b a b a c a
+    # p[i] 0 0 1 2 3 0 1
     def compute_prefix_function(self, word):
         arr = [0 for _ in word]
         k = 0
