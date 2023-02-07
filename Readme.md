@@ -14,6 +14,7 @@ Solutions for LeetCode
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](PythonCode/MergeIntervals.py) | Medium | Array | Sorting |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](PythonCode/BestTimeToBuyAndSellStock.py) | Easy | Array | Dynamic Programming |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [Swift](SwiftCode/BestTimetoBuyandSellStockII.swift) | Medium | Array | Greedy |
+| 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [Swift](SwiftCode/BestTimetoBuyandSellStockIII.swift) | Hard | Array | |
 | 134  | [Gas Station](https://leetcode.com/problems/gas-station) | [Swift](SwiftCode/GasStation.swift) | Medium | Array | Greedy |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element) | [Python](PythonCode/MajorityElement.py) | Easy | Array | |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Java](JavaCode/src/ContainsDuplicate.java) | Easy | Array | |
