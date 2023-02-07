@@ -18,6 +18,7 @@ Solutions for LeetCode
 | 134  | [Gas Station](https://leetcode.com/problems/gas-station) | [Swift](SwiftCode/GasStation.swift) | Medium | Array | Greedy |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element) | [Python](PythonCode/MajorityElement.py) | Easy | Array | |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Java](JavaCode/src/ContainsDuplicate.java) | Easy | Array | |
+| 221  | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Swift](SwiftCode/MaximalSquare.swift) | Medium | Array | Dynamic Programming |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](JavaCode/src/MoveZeroes.java) | Easy | Array | |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change) | [Swift](SwiftCode/CoinChange.swift) | Medium | Array | Dynamic Programming |
 | 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Swift](SwiftCode/IntersectionofTwoArrays.swift) | Easy | Array | |
