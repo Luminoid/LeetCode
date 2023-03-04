@@ -43,7 +43,7 @@ Solutions for LeetCode
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Python](PythonCode/LongestCommonPrefix.py) | Easy | String | |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](PythonCode/ValidParentheses.py) | Easy | String | Stack |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python](PythonCode/GenerateParentheses.py) | Medium | String | |
-| 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](PythonCode/RemoveDuplicateLetters.py) | Medium | String | Greedy |
+| 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Swift](SwiftCode/RemoveDuplicateLetters.swift), [Python](PythonCode/RemoveDuplicateLetters.py) | Medium | String | Stack, Greedy |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](JavaCode/src/ReverseString.java) | Easy | String | |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Java](JavaCode/src/RansomNote.java) | Easy | String | |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Swift](SwiftCode/FirstUniqueCharacterinaString.swift) | Easy | String | |

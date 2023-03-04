@@ -7,6 +7,8 @@ class Solution:
         smallest_letter_index = 0
         for char in s:
             hashmap[char] = hashmap.get(char, 0) + 1
+
+        # Find the index of the smallest letter
         for index, char in enumerate(s):
             if char < s[smallest_letter_index]:
                 smallest_letter_index = index
