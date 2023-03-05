@@ -12,6 +12,7 @@ Solutions for LeetCode
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Python](PythonCode/TrappingRainWater.py) | Hard | Array | |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](PythonCode/MaximumSubarray.py) | Medium | Array | Dynamic Programming |
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](PythonCode/MergeIntervals.py) | Medium | Array | Sorting |
+| 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [Swift](SwiftCode/LargestRectangleinHistogram.swift) | Hard | Array | Monotonic Stack |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](PythonCode/BestTimeToBuyAndSellStock.py) | Easy | Array | Dynamic Programming |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [Swift](SwiftCode/BestTimetoBuyandSellStockII.swift) | Medium | Array | Greedy |
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [Swift](SwiftCode/BestTimetoBuyandSellStockIII.swift) | Hard | Array | |
