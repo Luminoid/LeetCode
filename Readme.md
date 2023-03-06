@@ -59,6 +59,7 @@ Solutions for LeetCode
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | [Python](PythonCode/MinimumRemovetoMakeValidParentheses.py) | Medium | String | Stack |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [Python](PythonCode/MaximumRepeatingSubstring.py) | Easy | String | KMP |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](PythonCode/AddTwoNumbers.py) | Medium | Linked List | |
+| 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Swift](SwiftCode/RemoveNthNodeFromEndofList.swift) | Medium | Linked List | |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Python](PythonCode/LinkedListCycle.py) | Easy | Linked List | |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Python](PythonCode/LinkedListCycleII.py) | Medium | Linked List | |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](JavaCode/src/ReverseLinkedList.java) | Easy | Linked List | |
