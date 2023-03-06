@@ -66,6 +66,7 @@ Solutions for LeetCode
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Java](JavaCode/src/DeleteNodeinaLinkedList.java) | Medium | Linked List | |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | [Python](PythonCode/LRUCache.py) | Medium | Hash Table | |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](JavaCode/src/ValidAnagram.java) | Easy | Hash Table | |
+| 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Swift](SwiftCode/BinaryTreeInorderTraversal.swift) | Easy | Tree | Tree Traversal |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree) | [Python](PythonCode/SameTree.py) | Easy | Tree | |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](PythonCode/MaximumDepthofBinaryTree.py) | Easy | Tree | |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Java](JavaCode/src/InvertBinaryTree.java) | Easy | Tree | |
