@@ -18,6 +18,7 @@ Solutions for LeetCode
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [Swift](SwiftCode/BestTimetoBuyandSellStockIII.swift) | Hard | Array | |
 | 134  | [Gas Station](https://leetcode.com/problems/gas-station) | [Swift](SwiftCode/GasStation.swift) | Medium | Array | Greedy |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element) | [Python](PythonCode/MajorityElement.py) | Easy | Array | |
+| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Swift](SwiftCode/NumberofIslands.swift) | Medium | Array | Breadth-first search |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Java](JavaCode/src/ContainsDuplicate.java) | Easy | Array | |
 | 221  | [Maximal Square](https://leetcode.com/problems/maximal-square) | [Swift](SwiftCode/MaximalSquare.swift) | Medium | Array | Dynamic Programming |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](JavaCode/src/MoveZeroes.java) | Easy | Array | |
