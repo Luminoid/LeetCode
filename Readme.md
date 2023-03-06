@@ -70,6 +70,7 @@ Solutions for LeetCode
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree) | [Python](PythonCode/SameTree.py) | Easy | Tree | |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](PythonCode/MaximumDepthofBinaryTree.py) | Easy | Tree | |
 | 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Swift](SwiftCode/BinaryTreePreorderTraversal.swift) | Easy | Tree | Depth-first search |
+| 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Swift](SwiftCode/BinaryTreePostorderTraversal.swift) | Easy | Tree | Depth-first search |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Java](JavaCode/src/InvertBinaryTree.java) | Easy | Tree | |
 | 404  | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | [Swift](SwiftCode/SumOfLeftLeaves.swift) | Easy | Tree | |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Swift](SwiftCode/MergeTwoBinaryTrees.swift) | Easy | Tree | |
