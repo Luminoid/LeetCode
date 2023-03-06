@@ -27,7 +27,8 @@ if [ -z ${index} ] || [ -z "${title}" ]; then
     exit 1
 fi
 
-problem_url=$(echo ${title// /-} | tr '[:upper:]' '[:lower:]')
+# special case: Two Sum II - Input Array Is Sorted
+problem_url=$(echo $title | sed 's/\- //g' | sed 's/ /-/g' | tr '[:upper:]' '[:lower:]')
 
 add_problem(){
     if [ $language = $python_str ]; then
@@ -37,7 +38,7 @@ add_problem(){
         filename=${title//[[:blank:]]/}
         filepath=JavaCode/src/${filename}.java
     elif [ $language = $swift_str ]; then
-        filename=${title//[[:blank:]]/}
+        filename=$(echo ${title//[[:blank:]]/} | sed 's/\-/_/g')
         filepath=SwiftCode/${filename}.swift
     elif [ $language = $sql_str ]; then
         filename=$(echo ${title// /_} | tr '[:upper:]' '[:lower:]')
