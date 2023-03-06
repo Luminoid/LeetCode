@@ -17,6 +17,7 @@ Solutions for LeetCode
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [Swift](SwiftCode/BestTimetoBuyandSellStockII.swift) | Medium | Array | Greedy |
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [Swift](SwiftCode/BestTimetoBuyandSellStockIII.swift) | Hard | Array | |
 | 134  | [Gas Station](https://leetcode.com/problems/gas-station) | [Swift](SwiftCode/GasStation.swift) | Medium | Array | Greedy |
+| 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Swift](SwiftCode/TwoSumII_InputArrayIsSorted.swift) | Medium | Array | Two Pointers |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element) | [Python](PythonCode/MajorityElement.py) | Easy | Array | |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Swift](SwiftCode/NumberofIslands.swift) | Medium | Array | Breadth-first search |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Java](JavaCode/src/ContainsDuplicate.java) | Easy | Array | |
