@@ -7,6 +7,7 @@
 
 //@main
 private class Solution {
+    // For Morris Traversal solution, see BinaryTreeIngorderTraversal.swift
     // Time complexity: O(n)
     // Space complexity: O(n) worst; O(log n) in average
     func preorderTraversal(_ root: TreeNode?) -> [Int] {
